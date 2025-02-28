@@ -16,7 +16,7 @@
 - Neovim Elitist :)
 
 ## Ongoing Projects
-- Poker Simulator(Python)
+Nutritional Chatbot
 
 
 <!---

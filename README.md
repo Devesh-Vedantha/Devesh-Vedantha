@@ -3,12 +3,12 @@ i love quantum.
 
 
 ## Interests
--content creation
--quantum
--science
--math
--cars
--ml
+- content creation
+- quantum
+- science
+- math
+- cars
+- ml
 
 
 

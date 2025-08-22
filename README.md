@@ -1,22 +1,15 @@
 # About Me
+i love quantum. 
+
 
 ## Interests
-- AI (applying LLMs to help small business)
-- Quantum Computing
-- Sales and Persuasion
-- Note-taking (I use obsidian and anki)
-- UI/UX Design
+content creation
+quantum
+science
+math
+cars
+ml
 
-## Work
-- ConsumerMesh, selling the prime design to digital experience.
-- If you work for a design agency, let me tell you how to give your clients enterprise websites that match your Figma design completely.
-- Contact me: devesh@consumermesh.com
-
-## Prefered IDE
-- Neovim Elitist :)
-
-## Ongoing Projects
-Nutritional Chatbot
 
 
 <!---
